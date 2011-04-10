@@ -1,0 +1,9 @@
+A formalization of theorems about the incompletnes of two sets of boolean operators in the propositional logic.
+
+Author: Wojciech Jedynak
+Date: around 29.12.2010
+
+Theorem 1. The set S1 = { /\, \/, -> , <-> } is an incomplete set (= there exist a boolean function that can't be expressed using variables and 
+ operatos from S1.
+
+Theorem 2. The set S2 = { <-> , ~, \bottom } is an incomplete set. [this is the more interesting one]
